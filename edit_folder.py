@@ -202,14 +202,12 @@ def get_most_similar_from_dict_lcs(unknown_name, all_names, chip_code_tiebreak=N
         else:
             # tiebreak somehow
             # pick the name with the least number of characters that do not appear in the unknown name
-            print(f"most_similar_names: {most_similar_names}")
             unknown_name_chars = set(unknown_name)
             most_similar_names_round_2 = []
             most_similar_name_num_uncommon_chars = 100
 
             for most_similar_name_candidate in most_similar_names:
                 cur_similar_name_num_uncommon_chars = len(set(most_similar_name_candidate) - unknown_name_chars)
-                print(f"cur_similar_name_num_uncommon_chars: {cur_similar_name_num_uncommon_chars}")
                 if cur_similar_name_num_uncommon_chars < most_similar_name_num_uncommon_chars:
                     most_similar_names_round_2 = [most_similar_name_candidate]
                     most_similar_name_num_uncommon_chars = cur_similar_name_num_uncommon_chars
@@ -321,6 +319,9 @@ def get_folder_chip(save_data, navi_id, chip_slot, chip_ids_to_chip_names):
 
 def edit_reg(save_data, navi_id, chip_slot):
     save_data[REG_STRUCTURE_OFFSET + 0x40 * navi_id + 0x2f] = chip_slot
+
+def edit_buster_level(save_data, navi_id, buster_level):
+    save_data[REG_STRUCTURE_OFFSET + 0x40 * navi_id + 0x5] = buster_level
 
 def get_reg(save_data, navi_id):
     return save_data[REG_STRUCTURE_OFFSET + 0x40 * navi_id + 0x2f]
@@ -458,7 +459,7 @@ def debug_str(x):
 def is_code(code):
     return len(code) == 1 and code.casefold() in all_chip_codes_set
 
-DEBUG = True
+DEBUG = False
 
 def convert_folder_to_save(input_folder_filepath):
     tango_config_filepath = get_tango_config_filepath()
@@ -472,7 +473,7 @@ def convert_folder_to_save(input_folder_filepath):
     if data_path is None:
         error_pause_and_exit(f"Tango is installed, but Tango data folder is missing!")
 
-    save_data = read_save_from_file("exe45_us_pvp_template.sav", "Template save isn't EXE4.5!", "Template save has incorrect checksum (save potentially corrupted)!")
+    save_data = read_save_from_file("data/exe45_us_pvp_template.sav", "Template save isn't EXE4.5!", "Template save has incorrect checksum (save potentially corrupted)!")
 
     with open(input_folder_filepath, "r") as f:
         folder_input_as_text = f.read()
@@ -661,6 +662,9 @@ def convert_folder_to_save(input_folder_filepath):
 
     if folder_error_message != "":
         error_pause_and_exit(folder_error_message)
+
+    for navi_name, navi in navis_cased.items():
+        edit_buster_level(save_data, navi["id"], navi["busterLevel"] - 1)
 
     saves_dirpath = pathlib.Path(data_path) / pathlib.Path("saves")
 

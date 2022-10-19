@@ -1,0 +1,22 @@
+This program has two functions listed below:
+
+=== Creating a save with a selected navi and a folder ===
+1. Create a text file with the navi name as the first line and the chips you want in your folder for the 2nd to 31st lines.
+- You must use the exact same chip names as the ones in game, WITH the exception of Z Saver, which you input as Z-Saver.
+  - Refer to https://bit.ly/EXE45PVPChipDoc
+- Add [REG] at the end of a chip to reg it.
+- An example folder is provided with the program.
+2. Drag the text file on the batch script called "bn45_pvp_patch_folder_editor.bat"
+3. READ WHAT THE PROGRAM PRINTS. It will explain every error on each line in the folder and provide suggestions for typos.
+4. If successful, the program will automatically import the save into Tango's save folder.
+
+=== Extracting all folders from a save ===
+1. Drag an EXE4.5 PVP Patch save onto the batch script called "bn45_pvp_patch_folder_editor.bat"
+2. If successful, the program will create a folder with the save name containing each navi's folder. These can be imported into a save.
+
+=== Thanks ===
+- weenie/bigfarts for some of the save offsets in Tango.
+- Prof. 9 for EXE4.5 internal chip data documentation
+- GMERC for his 4.5 PVP Patch Chip Documentation
+
+Source code at https://github.com/luckytyphlosion/mmbn-folder-editor

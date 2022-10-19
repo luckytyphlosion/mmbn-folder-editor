@@ -1,0 +1,149 @@
+{
+  "MegaMan": {
+    "id": 0,
+    "name": "MegaMan",
+    "mb": 50,
+    "megafolder": 7,
+    "gigafolder": 2
+  },
+  "Roll": {
+    "id": 1,
+    "name": "Roll",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "GutsMan": {
+    "id": 2,
+    "name": "GutsMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "WindMan": {
+    "id": 3,
+    "name": "WindMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "SerchMan": {
+    "id": 4,
+    "name": "SerchMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "FireMan": {
+    "id": 5,
+    "name": "FireMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "ThunderMan": {
+    "id": 6,
+    "name": "ThunderMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "ProtoMan": {
+    "id": 7,
+    "name": "ProtoMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "NumberMan": {
+    "id": 8,
+    "name": "NumberMan",
+    "mb": 70,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "MetalMan": {
+    "id": 9,
+    "name": "MetalMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "JunkMan": {
+    "id": 10,
+    "name": "JunkMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "AquaMan": {
+    "id": 11,
+    "name": "AquaMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "WoodMan": {
+    "id": 12,
+    "name": "WoodMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "StarMan": {
+    "id": 15,
+    "name": "StarMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "ShadowMan": {
+    "id": 16,
+    "name": "ShadowMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "KnightMan": {
+    "id": 17,
+    "name": "KnightMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "NapalmMan": {
+    "id": 18,
+    "name": "NapalmMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "IceMan": {
+    "id": 19,
+    "name": "IceMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "ElecMan": {
+    "id": 20,
+    "name": "ElecMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "PlantMan": {
+    "id": 21,
+    "name": "PlantMan",
+    "mb": 50,
+    "megafolder": 5,
+    "gigafolder": 1
+  },
+  "Bass": {
+    "id": 22,
+    "name": "Bass",
+    "mb": 50,
+    "megafolder": 4,
+    "gigafolder": 1
+  }
+}

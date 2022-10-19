@@ -1,0 +1,2788 @@
+{
+  "Cannon": {
+    "id": 1,
+    "name": "Cannon",
+    "codes": [
+      "A",
+      "B",
+      "C",
+      "*"
+    ],
+    "mb": 6,
+    "library": "Standard"
+  },
+  "HiCannon": {
+    "id": 2,
+    "name": "HiCannon",
+    "codes": [
+      "L",
+      "M",
+      "N",
+      "*"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "M-Cannon": {
+    "id": 3,
+    "name": "M-Cannon",
+    "codes": [
+      "R",
+      "S",
+      "T",
+      "*"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "AirShot": {
+    "id": 4,
+    "name": "AirShot",
+    "codes": [
+      "*"
+    ],
+    "mb": 4,
+    "library": "Standard"
+  },
+  "Vulcan1": {
+    "id": 5,
+    "name": "Vulcan1",
+    "codes": [
+      "B",
+      "D",
+      "S",
+      "*"
+    ],
+    "mb": 5,
+    "library": "Standard"
+  },
+  "Vulcan2": {
+    "id": 6,
+    "name": "Vulcan2",
+    "codes": [
+      "D",
+      "F",
+      "L"
+    ],
+    "mb": 18,
+    "library": "Standard"
+  },
+  "Vulcan3": {
+    "id": 7,
+    "name": "Vulcan3",
+    "codes": [
+      "A",
+      "G",
+      "R"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "SuprVulc": {
+    "id": 8,
+    "name": "SuprVulc",
+    "codes": [
+      "V"
+    ],
+    "mb": 75,
+    "library": "Standard"
+  },
+  "Spreadr1": {
+    "id": 9,
+    "name": "Spreadr1",
+    "codes": [
+      "L",
+      "M",
+      "N",
+      "*"
+    ],
+    "mb": 10,
+    "library": "Standard"
+  },
+  "Spreadr2": {
+    "id": 10,
+    "name": "Spreadr2",
+    "codes": [
+      "A",
+      "B",
+      "C",
+      "*"
+    ],
+    "mb": 18,
+    "library": "Standard"
+  },
+  "Spreadr3": {
+    "id": 11,
+    "name": "Spreadr3",
+    "codes": [
+      "Q",
+      "R",
+      "S",
+      "*"
+    ],
+    "mb": 26,
+    "library": "Standard"
+  },
+  "TankCan1": {
+    "id": 12,
+    "name": "TankCan1",
+    "codes": [
+      "A",
+      "G",
+      "R"
+    ],
+    "mb": 17,
+    "library": "Standard"
+  },
+  "TankCan2": {
+    "id": 13,
+    "name": "TankCan2",
+    "codes": [
+      "L",
+      "S",
+      "V"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "TankCan3": {
+    "id": 14,
+    "name": "TankCan3",
+    "codes": [
+      "B",
+      "M",
+      "P"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "GunDelS1": {
+    "id": 15,
+    "name": "GunDelS1",
+    "codes": [
+      "C",
+      "M",
+      "T",
+      "*"
+    ],
+    "mb": 15,
+    "library": "Standard"
+  },
+  "GunDelS2": {
+    "id": 16,
+    "name": "GunDelS2",
+    "codes": [
+      "B",
+      "E",
+      "R"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "GunDelS3": {
+    "id": 17,
+    "name": "GunDelS3",
+    "codes": [
+      "N",
+      "Q",
+      "W"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "YoYo": {
+    "id": 19,
+    "name": "YoYo",
+    "codes": [
+      "L",
+      "M",
+      "N",
+      "*"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "FireBrn1": {
+    "id": 20,
+    "name": "FireBrn1",
+    "codes": [
+      "F",
+      "G",
+      "H",
+      "*"
+    ],
+    "mb": 8,
+    "library": "Standard"
+  },
+  "FireBrn2": {
+    "id": 21,
+    "name": "FireBrn2",
+    "codes": [
+      "S",
+      "T",
+      "U"
+    ],
+    "mb": 21,
+    "library": "Standard"
+  },
+  "FireBrn3": {
+    "id": 22,
+    "name": "FireBrn3",
+    "codes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "WideSht": {
+    "id": 23,
+    "name": "WideSht",
+    "codes": [
+      "P",
+      "Q",
+      "R"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "TrnArrw1": {
+    "id": 24,
+    "name": "TrnArrw1",
+    "codes": [
+      "A",
+      "F",
+      "K"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "TrnArrw2": {
+    "id": 25,
+    "name": "TrnArrw2",
+    "codes": [
+      "G",
+      "M",
+      "Z"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "TrnArrw3": {
+    "id": 26,
+    "name": "TrnArrw3",
+    "codes": [
+      "M",
+      "S",
+      "Y"
+    ],
+    "mb": 42,
+    "library": "Standard"
+  },
+  "BblStar1": {
+    "id": 27,
+    "name": "BblStar1",
+    "codes": [
+      "B",
+      "E",
+      "T"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "BblStar2": {
+    "id": 28,
+    "name": "BblStar2",
+    "codes": [
+      "C",
+      "L",
+      "V"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "BblStar3": {
+    "id": 29,
+    "name": "BblStar3",
+    "codes": [
+      "G",
+      "R",
+      "S"
+    ],
+    "mb": 46,
+    "library": "Standard"
+  },
+  "Thunder": {
+    "id": 30,
+    "name": "Thunder",
+    "codes": [
+      "B",
+      "R",
+      "S",
+      "*"
+    ],
+    "mb": 7,
+    "library": "Standard"
+  },
+  "DolThdr1": {
+    "id": 31,
+    "name": "DolThdr1",
+    "codes": [
+      "A",
+      "E",
+      "Q"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "DolThdr2": {
+    "id": 32,
+    "name": "DolThdr2",
+    "codes": [
+      "C",
+      "L",
+      "P"
+    ],
+    "mb": 31,
+    "library": "Standard"
+  },
+  "DolThdr3": {
+    "id": 33,
+    "name": "DolThdr3",
+    "codes": [
+      "B",
+      "R",
+      "V"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "ElcPuls1": {
+    "id": 34,
+    "name": "ElcPuls1",
+    "codes": [
+      "J",
+      "L",
+      "S"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "ElcPuls2": {
+    "id": 35,
+    "name": "ElcPuls2",
+    "codes": [
+      "A",
+      "E",
+      "J"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "ElcPuls3": {
+    "id": 36,
+    "name": "ElcPuls3",
+    "codes": [
+      "A",
+      "J",
+      "S"
+    ],
+    "mb": 40,
+    "library": "Standard"
+  },
+  "RskyHny1": {
+    "id": 37,
+    "name": "RskyHny1",
+    "codes": [
+      "B",
+      "G",
+      "S"
+    ],
+    "mb": 21,
+    "library": "Standard"
+  },
+  "RskyHny2": {
+    "id": 38,
+    "name": "RskyHny2",
+    "codes": [
+      "C",
+      "R",
+      "V"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "RskyHny3": {
+    "id": 39,
+    "name": "RskyHny3",
+    "codes": [
+      "A",
+      "D",
+      "M"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "RlngLog1": {
+    "id": 40,
+    "name": "RlngLog1",
+    "codes": [
+      "I",
+      "K",
+      "P"
+    ],
+    "mb": 14,
+    "library": "Standard"
+  },
+  "RlngLog2": {
+    "id": 41,
+    "name": "RlngLog2",
+    "codes": [
+      "E",
+      "Q",
+      "Z"
+    ],
+    "mb": 26,
+    "library": "Standard"
+  },
+  "RlngLog3": {
+    "id": 42,
+    "name": "RlngLog3",
+    "codes": [
+      "F",
+      "N",
+      "W"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "MachGun1": {
+    "id": 43,
+    "name": "MachGun1",
+    "codes": [
+      "A",
+      "R",
+      "T",
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "MachGun2": {
+    "id": 44,
+    "name": "MachGun2",
+    "codes": [
+      "E",
+      "G",
+      "S"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "MachGun3": {
+    "id": 45,
+    "name": "MachGun3",
+    "codes": [
+      "B",
+      "F",
+      "M"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "HeatDrgn": {
+    "id": 46,
+    "name": "HeatDrgn",
+    "codes": [
+      "G",
+      "R",
+      "T"
+    ],
+    "mb": 40,
+    "library": "Standard"
+  },
+  "ElecDrgn": {
+    "id": 47,
+    "name": "ElecDrgn",
+    "codes": [
+      "A",
+      "L",
+      "V"
+    ],
+    "mb": 40,
+    "library": "Standard"
+  },
+  "AquaDrgn": {
+    "id": 48,
+    "name": "AquaDrgn",
+    "codes": [
+      "H",
+      "P",
+      "S"
+    ],
+    "mb": 44,
+    "library": "Standard"
+  },
+  "WoodDrgn": {
+    "id": 49,
+    "name": "WoodDrgn",
+    "codes": [
+      "G",
+      "T",
+      "V"
+    ],
+    "mb": 48,
+    "library": "Standard"
+  },
+  "AirHocky": {
+    "id": 50,
+    "name": "AirHocky",
+    "codes": [
+      "L",
+      "M",
+      "N"
+    ],
+    "mb": 19,
+    "library": "Standard"
+  },
+  "DrilArm": {
+    "id": 51,
+    "name": "DrilArm",
+    "codes": [
+      "G",
+      "M",
+      "W"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "Tornado": {
+    "id": 52,
+    "name": "Tornado",
+    "codes": [
+      "L",
+      "R",
+      "T"
+    ],
+    "mb": 16,
+    "library": "Standard"
+  },
+  "Static": {
+    "id": 53,
+    "name": "Static",
+    "codes": [
+      "G",
+      "S",
+      "V"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "MiniBomb": {
+    "id": 54,
+    "name": "MiniBomb",
+    "codes": [
+      "B",
+      "L",
+      "R",
+      "*"
+    ],
+    "mb": 6,
+    "library": "Standard"
+  },
+  "EnergBom": {
+    "id": 55,
+    "name": "EnergBom",
+    "codes": [
+      "C",
+      "K",
+      "V",
+      "*"
+    ],
+    "mb": 11,
+    "library": "Standard"
+  },
+  "MegEnBom": {
+    "id": 56,
+    "name": "MegEnBom",
+    "codes": [
+      "G",
+      "M",
+      "O",
+      "*"
+    ],
+    "mb": 27,
+    "library": "Standard"
+  },
+  "FlshBom1": {
+    "id": 57,
+    "name": "FlshBom1",
+    "codes": [
+      "J",
+      "L",
+      "Q",
+      "*"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "FlshBom2": {
+    "id": 58,
+    "name": "FlshBom2",
+    "codes": [
+      "G",
+      "K",
+      "R"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "FlshBom3": {
+    "id": 59,
+    "name": "FlshBom3",
+    "codes": [
+      "H",
+      "P",
+      "S"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "BlkBomb": {
+    "id": 60,
+    "name": "BlkBomb",
+    "codes": [
+      "B",
+      "F",
+      "O"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "AquaNdl1": {
+    "id": 61,
+    "name": "AquaNdl1",
+    "codes": [
+      "C",
+      "J",
+      "P"
+    ],
+    "mb": 31,
+    "library": "Standard"
+  },
+  "AquaNdl2": {
+    "id": 62,
+    "name": "AquaNdl2",
+    "codes": [
+      "F",
+      "K",
+      "T"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "AquaNdl3": {
+    "id": 63,
+    "name": "AquaNdl3",
+    "codes": [
+      "A",
+      "L",
+      "U"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "CornSht1": {
+    "id": 64,
+    "name": "CornSht1",
+    "codes": [
+      "J",
+      "K",
+      "L"
+    ],
+    "mb": 14,
+    "library": "Standard"
+  },
+  "CornSht2": {
+    "id": 65,
+    "name": "CornSht2",
+    "codes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "mb": 26,
+    "library": "Standard"
+  },
+  "CornSht3": {
+    "id": 66,
+    "name": "CornSht3",
+    "codes": [
+      "P",
+      "Q",
+      "R"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "BugBomb": {
+    "id": 67,
+    "name": "BugBomb",
+    "codes": [
+      "G",
+      "S",
+      "V"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "GrasSeed": {
+    "id": 68,
+    "name": "GrasSeed",
+    "codes": [
+      "A",
+      "F",
+      "S",
+      "*"
+    ],
+    "mb": 19,
+    "library": "Standard"
+  },
+  "IceSeed": {
+    "id": 69,
+    "name": "IceSeed",
+    "codes": [
+      "A",
+      "L",
+      "R",
+      "*"
+    ],
+    "mb": 31,
+    "library": "Standard"
+  },
+  "PoisSeed": {
+    "id": 70,
+    "name": "PoisSeed",
+    "codes": [
+      "H",
+      "N",
+      "P",
+      "*"
+    ],
+    "mb": 37,
+    "library": "Standard"
+  },
+  "Sword": {
+    "id": 71,
+    "name": "Sword",
+    "codes": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ],
+    "mb": 8,
+    "library": "Standard"
+  },
+  "WideSwrd": {
+    "id": 72,
+    "name": "WideSwrd",
+    "codes": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "LongSwrd": {
+    "id": 73,
+    "name": "LongSwrd",
+    "codes": [
+      "H",
+      "L",
+      "S",
+      "*"
+    ],
+    "mb": 25,
+    "library": "Standard"
+  },
+  "WideBlde": {
+    "id": 74,
+    "name": "WideBlde",
+    "codes": [
+      "B",
+      "R",
+      "W"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "LongBlde": {
+    "id": 75,
+    "name": "LongBlde",
+    "codes": [
+      "B",
+      "M",
+      "V"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "FireSwrd": {
+    "id": 76,
+    "name": "FireSwrd",
+    "codes": [
+      "F",
+      "O",
+      "Z"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "AquaSwrd": {
+    "id": 77,
+    "name": "AquaSwrd",
+    "codes": [
+      "A",
+      "I",
+      "Y"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "ElecSwrd": {
+    "id": 78,
+    "name": "ElecSwrd",
+    "codes": [
+      "E",
+      "K",
+      "N"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "BambSwrd": {
+    "id": 79,
+    "name": "BambSwrd",
+    "codes": [
+      "H",
+      "S",
+      "W"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "WindRack": {
+    "id": 80,
+    "name": "WindRack",
+    "codes": [
+      "F",
+      "J",
+      "R",
+      "*"
+    ],
+    "mb": 19,
+    "library": "Standard"
+  },
+  "StepSwrd": {
+    "id": 81,
+    "name": "StepSwrd",
+    "codes": [
+      "B",
+      "L",
+      "P"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "VarSwrd": {
+    "id": 82,
+    "name": "VarSwrd",
+    "codes": [
+      "K",
+      "V",
+      "W"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "NeoVari": {
+    "id": 83,
+    "name": "NeoVari",
+    "codes": [
+      "N"
+    ],
+    "mb": 52,
+    "library": "Standard"
+  },
+  "MoonBld": {
+    "id": 84,
+    "name": "MoonBld",
+    "codes": [
+      "A",
+      "M",
+      "T"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "Muramasa": {
+    "id": 85,
+    "name": "Muramasa",
+    "codes": [
+      "M"
+    ],
+    "mb": 77,
+    "library": "Standard"
+  },
+  "MchnSwrd": {
+    "id": 86,
+    "name": "MchnSwrd",
+    "codes": [
+      "H",
+      "L",
+      "Q"
+    ],
+    "mb": 37,
+    "library": "Standard"
+  },
+  "ElemSwrd": {
+    "id": 87,
+    "name": "ElemSwrd",
+    "codes": [
+      "J",
+      "M",
+      "U"
+    ],
+    "mb": 43,
+    "library": "Standard"
+  },
+  "AssnSwrd": {
+    "id": 88,
+    "name": "AssnSwrd",
+    "codes": [
+      "N",
+      "R",
+      "Y"
+    ],
+    "mb": 50,
+    "library": "Standard"
+  },
+  "CrakShot": {
+    "id": 89,
+    "name": "CrakShot",
+    "codes": [
+      "A",
+      "G",
+      "T",
+      "*"
+    ],
+    "mb": 4,
+    "library": "Standard"
+  },
+  "DublShot": {
+    "id": 90,
+    "name": "DublShot",
+    "codes": [
+      "C",
+      "R",
+      "U",
+      "*"
+    ],
+    "mb": 8,
+    "library": "Standard"
+  },
+  "TrplShot": {
+    "id": 91,
+    "name": "TrplShot",
+    "codes": [
+      "J",
+      "L",
+      "V",
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "WaveArm1": {
+    "id": 92,
+    "name": "WaveArm1",
+    "codes": [
+      "E",
+      "F",
+      "G"
+    ],
+    "mb": 15,
+    "library": "Standard"
+  },
+  "WaveArm2": {
+    "id": 93,
+    "name": "WaveArm2",
+    "codes": [
+      "L",
+      "M",
+      "N"
+    ],
+    "mb": 22,
+    "library": "Standard"
+  },
+  "WaveArm3": {
+    "id": 94,
+    "name": "WaveArm3",
+    "codes": [
+      "R",
+      "S",
+      "T"
+    ],
+    "mb": 29,
+    "library": "Standard"
+  },
+  "AuraHed1": {
+    "id": 95,
+    "name": "AuraHed1",
+    "codes": [
+      "B",
+      "C",
+      "D"
+    ],
+    "mb": 25,
+    "library": "Standard"
+  },
+  "AuraHed2": {
+    "id": 96,
+    "name": "AuraHed2",
+    "codes": [
+      "D",
+      "E",
+      "F"
+    ],
+    "mb": 33,
+    "library": "Standard"
+  },
+  "AuraHed3": {
+    "id": 97,
+    "name": "AuraHed3",
+    "codes": [
+      "F",
+      "G",
+      "H"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "LilBolr1": {
+    "id": 98,
+    "name": "LilBolr1",
+    "codes": [
+      "F",
+      "K",
+      "L"
+    ],
+    "mb": 18,
+    "library": "Standard"
+  },
+  "LilBolr2": {
+    "id": 99,
+    "name": "LilBolr2",
+    "codes": [
+      "E",
+      "M",
+      "V"
+    ],
+    "mb": 23,
+    "library": "Standard"
+  },
+  "LilBolr3": {
+    "id": 100,
+    "name": "LilBolr3",
+    "codes": [
+      "G",
+      "S",
+      "Z"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "SandWrm1": {
+    "id": 101,
+    "name": "SandWrm1",
+    "codes": [
+      "A",
+      "G",
+      "L"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "SandWrm2": {
+    "id": 102,
+    "name": "SandWrm2",
+    "codes": [
+      "B",
+      "R",
+      "Y"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "SandWrm3": {
+    "id": 103,
+    "name": "SandWrm3",
+    "codes": [
+      "H",
+      "J",
+      "S"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "AirRaid1": {
+    "id": 104,
+    "name": "AirRaid1",
+    "codes": [
+      "G",
+      "K",
+      "R"
+    ],
+    "mb": 26,
+    "library": "Standard"
+  },
+  "AirRaid2": {
+    "id": 105,
+    "name": "AirRaid2",
+    "codes": [
+      "O",
+      "T",
+      "Y"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "AirRaid3": {
+    "id": 106,
+    "name": "AirRaid3",
+    "codes": [
+      "N",
+      "U",
+      "Z"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "FireHit1": {
+    "id": 107,
+    "name": "FireHit1",
+    "codes": [
+      "D",
+      "E",
+      "F"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "FireHit2": {
+    "id": 108,
+    "name": "FireHit2",
+    "codes": [
+      "R",
+      "S",
+      "T"
+    ],
+    "mb": 22,
+    "library": "Standard"
+  },
+  "FireHit3": {
+    "id": 109,
+    "name": "FireHit3",
+    "codes": [
+      "A",
+      "B",
+      "C"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "BurnSqr1": {
+    "id": 110,
+    "name": "BurnSqr1",
+    "codes": [
+      "H",
+      "P",
+      "V"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "BurnSqr2": {
+    "id": 111,
+    "name": "BurnSqr2",
+    "codes": [
+      "D",
+      "M",
+      "T"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "BurnSqr3": {
+    "id": 112,
+    "name": "BurnSqr3",
+    "codes": [
+      "E",
+      "O",
+      "Z"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "Sensor1": {
+    "id": 113,
+    "name": "Sensor1",
+    "codes": [
+      "J",
+      "O",
+      "W"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "Sensor2": {
+    "id": 114,
+    "name": "Sensor2",
+    "codes": [
+      "N",
+      "U",
+      "Y"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "Sensor3": {
+    "id": 115,
+    "name": "Sensor3",
+    "codes": [
+      "I",
+      "K",
+      "Q"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "Boomer": {
+    "id": 116,
+    "name": "Boomer",
+    "codes": [
+      "J",
+      "K",
+      "T"
+    ],
+    "mb": 16,
+    "library": "Standard"
+  },
+  "HiBoomer": {
+    "id": 117,
+    "name": "HiBoomer",
+    "codes": [
+      "B",
+      "L",
+      "V"
+    ],
+    "mb": 26,
+    "library": "Standard"
+  },
+  "M-Boomer": {
+    "id": 118,
+    "name": "M-Boomer",
+    "codes": [
+      "I",
+      "M",
+      "W"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "Lance": {
+    "id": 119,
+    "name": "Lance",
+    "codes": [
+      "A",
+      "R",
+      "W",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Standard"
+  },
+  "GolmHit1": {
+    "id": 120,
+    "name": "GolmHit1",
+    "codes": [
+      "I",
+      "K",
+      "Y"
+    ],
+    "mb": 17,
+    "library": "Standard"
+  },
+  "GolmHit2": {
+    "id": 121,
+    "name": "GolmHit2",
+    "codes": [
+      "D",
+      "P",
+      "U"
+    ],
+    "mb": 27,
+    "library": "Standard"
+  },
+  "GolmHit3": {
+    "id": 122,
+    "name": "GolmHit3",
+    "codes": [
+      "H",
+      "M",
+      "V"
+    ],
+    "mb": 37,
+    "library": "Standard"
+  },
+  "IronShl1": {
+    "id": 123,
+    "name": "IronShl1",
+    "codes": [
+      "J",
+      "K",
+      "L"
+    ],
+    "mb": 13,
+    "library": "Standard"
+  },
+  "IronShl2": {
+    "id": 124,
+    "name": "IronShl2",
+    "codes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "IronShl3": {
+    "id": 125,
+    "name": "IronShl3",
+    "codes": [
+      "L",
+      "M",
+      "N"
+    ],
+    "mb": 27,
+    "library": "Standard"
+  },
+  "AirSpin1": {
+    "id": 126,
+    "name": "AirSpin1",
+    "codes": [
+      "F",
+      "G",
+      "R"
+    ],
+    "mb": 22,
+    "library": "Standard"
+  },
+  "AirSpin2": {
+    "id": 127,
+    "name": "AirSpin2",
+    "codes": [
+      "A",
+      "L",
+      "T"
+    ],
+    "mb": 29,
+    "library": "Standard"
+  },
+  "AirSpin3": {
+    "id": 128,
+    "name": "AirSpin3",
+    "codes": [
+      "N",
+      "O",
+      "T"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "Wind": {
+    "id": 129,
+    "name": "Wind",
+    "codes": [
+      "*"
+    ],
+    "mb": 10,
+    "library": "Standard"
+  },
+  "Fan": {
+    "id": 130,
+    "name": "Fan",
+    "codes": [
+      "*"
+    ],
+    "mb": 10,
+    "library": "Standard"
+  },
+  "Rflectr1": {
+    "id": 131,
+    "name": "Rflectr1",
+    "codes": [
+      "A",
+      "C",
+      "P",
+      "*"
+    ],
+    "mb": 7,
+    "library": "Standard"
+  },
+  "Rflectr2": {
+    "id": 132,
+    "name": "Rflectr2",
+    "codes": [
+      "B",
+      "G",
+      "Y",
+      "*"
+    ],
+    "mb": 16,
+    "library": "Standard"
+  },
+  "Rflectr3": {
+    "id": 133,
+    "name": "Rflectr3",
+    "codes": [
+      "E",
+      "F",
+      "O",
+      "*"
+    ],
+    "mb": 25,
+    "library": "Standard"
+  },
+  "Snake": {
+    "id": 134,
+    "name": "Snake",
+    "codes": [
+      "H",
+      "M",
+      "L"
+    ],
+    "mb": 34,
+    "library": "Standard"
+  },
+  "SumnBlk1": {
+    "id": 135,
+    "name": "SumnBlk1",
+    "codes": [
+      "E",
+      "I",
+      "P"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "SumnBlk2": {
+    "id": 136,
+    "name": "SumnBlk2",
+    "codes": [
+      "H",
+      "O",
+      "V"
+    ],
+    "mb": 40,
+    "library": "Standard"
+  },
+  "SumnBlk3": {
+    "id": 137,
+    "name": "SumnBlk3",
+    "codes": [
+      "W",
+      "Y",
+      "Z"
+    ],
+    "mb": 46,
+    "library": "Standard"
+  },
+  "NumbrBl": {
+    "id": 138,
+    "name": "NumbrBl",
+    "codes": [
+      "N"
+    ],
+    "mb": 69,
+    "library": "Standard"
+  },
+  "Meteors": {
+    "id": 139,
+    "name": "Meteors",
+    "codes": [
+      "R"
+    ],
+    "mb": 73,
+    "library": "Standard"
+  },
+  "JustcOne": {
+    "id": 140,
+    "name": "JustcOne",
+    "codes": [
+      "J"
+    ],
+    "mb": 90,
+    "library": "Standard"
+  },
+  "Magnum": {
+    "id": 141,
+    "name": "Magnum",
+    "codes": [
+      "F",
+      "L",
+      "W"
+    ],
+    "mb": 31,
+    "library": "Standard"
+  },
+  "CircGun": {
+    "id": 142,
+    "name": "CircGun",
+    "codes": [
+      "P",
+      "T",
+      "V"
+    ],
+    "mb": 35,
+    "library": "Standard"
+  },
+  "RockCube": {
+    "id": 143,
+    "name": "RockCube",
+    "codes": [
+      "*"
+    ],
+    "mb": 6,
+    "library": "Standard"
+  },
+  "TimeBom1": {
+    "id": 144,
+    "name": "TimeBom1",
+    "codes": [
+      "F",
+      "G",
+      "H"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "Mine": {
+    "id": 145,
+    "name": "Mine",
+    "codes": [
+      "A",
+      "S",
+      "T"
+    ],
+    "mb": 28,
+    "library": "Standard"
+  },
+  "Fanfare": {
+    "id": 146,
+    "name": "Fanfare",
+    "codes": [
+      "P",
+      "S",
+      "Z",
+      "*"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "Discord": {
+    "id": 147,
+    "name": "Discord",
+    "codes": [
+      "A",
+      "G",
+      "S",
+      "*"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "Timpani": {
+    "id": 148,
+    "name": "Timpani",
+    "codes": [
+      "I",
+      "O",
+      "T",
+      "*"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "Silence": {
+    "id": 149,
+    "name": "Silence",
+    "codes": [
+      "B",
+      "R",
+      "W",
+      "*"
+    ],
+    "mb": 20,
+    "library": "Standard"
+  },
+  "VDoll": {
+    "id": 150,
+    "name": "VDoll",
+    "codes": [
+      "F",
+      "N",
+      "S",
+      "*"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "Guardian": {
+    "id": 151,
+    "name": "Guardian",
+    "codes": [
+      "O"
+    ],
+    "mb": 64,
+    "library": "Standard"
+  },
+  "Anubis": {
+    "id": 152,
+    "name": "Anubis",
+    "codes": [
+      "P"
+    ],
+    "mb": 86,
+    "library": "Standard"
+  },
+  "Recov10": {
+    "id": 154,
+    "name": "Recov10",
+    "codes": [
+      "A",
+      "D",
+      "L",
+      "*"
+    ],
+    "mb": 4,
+    "library": "Standard"
+  },
+  "Recov30": {
+    "id": 155,
+    "name": "Recov30",
+    "codes": [
+      "E",
+      "L",
+      "Q",
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "Recov50": {
+    "id": 156,
+    "name": "Recov50",
+    "codes": [
+      "C",
+      "M",
+      "P",
+      "*"
+    ],
+    "mb": 18,
+    "library": "Standard"
+  },
+  "Recov80": {
+    "id": 157,
+    "name": "Recov80",
+    "codes": [
+      "H",
+      "K",
+      "V",
+      "*"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "Recov120": {
+    "id": 158,
+    "name": "Recov120",
+    "codes": [
+      "F",
+      "P",
+      "S"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "Recov150": {
+    "id": 159,
+    "name": "Recov150",
+    "codes": [
+      "J",
+      "M",
+      "T"
+    ],
+    "mb": 38,
+    "library": "Standard"
+  },
+  "Recov200": {
+    "id": 160,
+    "name": "Recov200",
+    "codes": [
+      "I",
+      "Q",
+      "Z"
+    ],
+    "mb": 42,
+    "library": "Standard"
+  },
+  "Recov300": {
+    "id": 161,
+    "name": "Recov300",
+    "codes": [
+      "J",
+      "O",
+      "Y"
+    ],
+    "mb": 48,
+    "library": "Standard"
+  },
+  "PanlGrab": {
+    "id": 162,
+    "name": "PanlGrab",
+    "codes": [
+      "*"
+    ],
+    "mb": 6,
+    "library": "Standard"
+  },
+  "AreaGrab": {
+    "id": 163,
+    "name": "AreaGrab",
+    "codes": [
+      "B",
+      "F",
+      "S",
+      "*"
+    ],
+    "mb": 8,
+    "library": "Standard"
+  },
+  "GrabBnsh": {
+    "id": 164,
+    "name": "GrabBnsh",
+    "codes": [
+      "B",
+      "M",
+      "S"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "GrabRvng": {
+    "id": 165,
+    "name": "GrabRvng",
+    "codes": [
+      "I",
+      "Q",
+      "Z"
+    ],
+    "mb": 50,
+    "library": "Standard"
+  },
+  "PnlRetrn": {
+    "id": 166,
+    "name": "PnlRetrn",
+    "codes": [
+      "*"
+    ],
+    "mb": 14,
+    "library": "Standard"
+  },
+  "Geddon": {
+    "id": 167,
+    "name": "Geddon",
+    "codes": [
+      "A",
+      "L",
+      "R",
+      "*"
+    ],
+    "mb": 47,
+    "library": "Standard"
+  },
+  "HolyPanl": {
+    "id": 168,
+    "name": "HolyPanl",
+    "codes": [
+      "A",
+      "B",
+      "S",
+      "*"
+    ],
+    "mb": 24,
+    "library": "Standard"
+  },
+  "Snctuary": {
+    "id": 169,
+    "name": "Snctuary",
+    "codes": [
+      "Z"
+    ],
+    "mb": 62,
+    "library": "Standard"
+  },
+  "ComingRd": {
+    "id": 170,
+    "name": "ComingRd",
+    "codes": [
+      "*"
+    ],
+    "mb": 21,
+    "library": "Standard"
+  },
+  "GoingRd": {
+    "id": 171,
+    "name": "GoingRd",
+    "codes": [
+      "*"
+    ],
+    "mb": 21,
+    "library": "Standard"
+  },
+  "SloGauge": {
+    "id": 172,
+    "name": "SloGauge",
+    "codes": [
+      "A",
+      "B",
+      "G",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Standard"
+  },
+  "FstGauge": {
+    "id": 173,
+    "name": "FstGauge",
+    "codes": [
+      "E",
+      "M",
+      "R",
+      "*"
+    ],
+    "mb": 48,
+    "library": "Standard"
+  },
+  "FullCust": {
+    "id": 174,
+    "name": "FullCust",
+    "codes": [
+      "*"
+    ],
+    "mb": 50,
+    "library": "Standard"
+  },
+  "BusterUp": {
+    "id": 175,
+    "name": "BusterUp",
+    "codes": [
+      "*"
+    ],
+    "mb": 11,
+    "library": "Standard"
+  },
+  "BugFix": {
+    "id": 176,
+    "name": "BugFix",
+    "codes": [
+      "K",
+      "P",
+      "Z",
+      "*"
+    ],
+    "mb": 62,
+    "library": "Standard"
+  },
+  "Invisibl": {
+    "id": 177,
+    "name": "Invisibl",
+    "codes": [
+      "*"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "Barrier": {
+    "id": 178,
+    "name": "Barrier",
+    "codes": [
+      "A",
+      "F",
+      "R",
+      "*"
+    ],
+    "mb": 7,
+    "library": "Standard"
+  },
+  "Barr100": {
+    "id": 179,
+    "name": "Barr100",
+    "codes": [
+      "H",
+      "O",
+      "Y"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "Barr200": {
+    "id": 180,
+    "name": "Barr200",
+    "codes": [
+      "K",
+      "U",
+      "W"
+    ],
+    "mb": 52,
+    "library": "Standard"
+  },
+  "BblWrap": {
+    "id": 181,
+    "name": "BblWrap",
+    "codes": [
+      "I",
+      "Q",
+      "Z"
+    ],
+    "mb": 58,
+    "library": "Standard"
+  },
+  "LifeAur": {
+    "id": 182,
+    "name": "LifeAur",
+    "codes": [
+      "U"
+    ],
+    "mb": 70,
+    "library": "Standard"
+  },
+  "MagCoil": {
+    "id": 183,
+    "name": "MagCoil",
+    "codes": [
+      "*"
+    ],
+    "mb": 14,
+    "library": "Standard"
+  },
+  "WhiCapsl": {
+    "id": 184,
+    "name": "WhiCapsl",
+    "codes": [
+      "*"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "Uninstll": {
+    "id": 185,
+    "name": "Uninstll",
+    "codes": [
+      "G",
+      "L",
+      "R"
+    ],
+    "mb": 60,
+    "library": "Standard"
+  },
+  "AntiNavi": {
+    "id": 186,
+    "name": "AntiNavi",
+    "codes": [
+      "F",
+      "L",
+      "T",
+      "*"
+    ],
+    "mb": 50,
+    "library": "Standard"
+  },
+  "AntiDmg": {
+    "id": 187,
+    "name": "AntiDmg",
+    "codes": [
+      "G",
+      "R",
+      "V",
+      "*"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "AntiSwrd": {
+    "id": 188,
+    "name": "AntiSwrd",
+    "codes": [
+      "A",
+      "R",
+      "Z",
+      "*"
+    ],
+    "mb": 33,
+    "library": "Standard"
+  },
+  "AntiRecv": {
+    "id": 189,
+    "name": "AntiRecv",
+    "codes": [
+      "A",
+      "F",
+      "V",
+      "*"
+    ],
+    "mb": 37,
+    "library": "Standard"
+  },
+  "CopyDmg": {
+    "id": 190,
+    "name": "CopyDmg",
+    "codes": [
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "LifeSync": {
+    "id": 191,
+    "name": "LifeSync",
+    "codes": [
+      "*"
+    ],
+    "mb": 12,
+    "library": "Standard"
+  },
+  "Atk+10": {
+    "id": 192,
+    "name": "Atk+10",
+    "codes": [
+      "*"
+    ],
+    "mb": 4,
+    "library": "Standard"
+  },
+  "Navi+20": {
+    "id": 193,
+    "name": "Navi+20",
+    "codes": [
+      "*"
+    ],
+    "mb": 36,
+    "library": "Standard"
+  },
+  "ColorPt": {
+    "id": 194,
+    "name": "ColorPt",
+    "codes": [
+      "*"
+    ],
+    "mb": 31,
+    "library": "Standard"
+  },
+  "Atk+30": {
+    "id": 195,
+    "name": "Atk+30",
+    "codes": [
+      "*"
+    ],
+    "mb": 66,
+    "library": "Standard"
+  },
+  "DblPoint": {
+    "id": 196,
+    "name": "DblPoint",
+    "codes": [
+      "*"
+    ],
+    "mb": 50,
+    "library": "Standard"
+  },
+  "ElemTrap": {
+    "id": 197,
+    "name": "ElemTrap",
+    "codes": [
+      "G",
+      "S",
+      "U",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Standard"
+  },
+  "ColArmy": {
+    "id": 198,
+    "name": "ColArmy",
+    "codes": [
+      "B",
+      "G",
+      "R",
+      "*"
+    ],
+    "mb": 25,
+    "library": "Standard"
+  },
+  "BlzrdBal": {
+    "id": 199,
+    "name": "BlzrdBal",
+    "codes": [
+      "H",
+      "N",
+      "T"
+    ],
+    "mb": 39,
+    "library": "Standard"
+  },
+  "TimeBom2": {
+    "id": 200,
+    "name": "TimeBom2",
+    "codes": [
+      "C",
+      "D",
+      "E"
+    ],
+    "mb": 30,
+    "library": "Standard"
+  },
+  "TimeBom3": {
+    "id": 201,
+    "name": "TimeBom3",
+    "codes": [
+      "L",
+      "M",
+      "N"
+    ],
+    "mb": 37,
+    "library": "Standard"
+  },
+  "BigBomb": {
+    "id": 202,
+    "name": "BigBomb",
+    "codes": [
+      "O",
+      "P",
+      "V"
+    ],
+    "mb": 32,
+    "library": "Standard"
+  },
+  "Roll": {
+    "id": 221,
+    "name": "Roll",
+    "codes": [
+      "R",
+      "*"
+    ],
+    "mb": 20,
+    "library": "Mega"
+  },
+  "Roll2": {
+    "id": 222,
+    "name": "Roll2",
+    "codes": [
+      "R"
+    ],
+    "mb": 40,
+    "library": "Mega"
+  },
+  "Roll3": {
+    "id": 223,
+    "name": "Roll3",
+    "codes": [
+      "R"
+    ],
+    "mb": 60,
+    "library": "Mega"
+  },
+  "ProtoMan": {
+    "id": 224,
+    "name": "ProtoMan",
+    "codes": [
+      "B",
+      "*"
+    ],
+    "mb": 41,
+    "library": "Mega"
+  },
+  "ProtoMnEX": {
+    "id": 225,
+    "name": "ProtoMnEX",
+    "codes": [
+      "B"
+    ],
+    "mb": 53,
+    "library": "Mega"
+  },
+  "ProtoMnSP": {
+    "id": 226,
+    "name": "ProtoMnSP",
+    "codes": [
+      "B"
+    ],
+    "mb": 68,
+    "library": "Mega"
+  },
+  "HeatMan": {
+    "id": 227,
+    "name": "HeatMan",
+    "codes": [
+      "H",
+      "*"
+    ],
+    "mb": 32,
+    "library": "Mega"
+  },
+  "HeatManEX": {
+    "id": 228,
+    "name": "HeatManEX",
+    "codes": [
+      "H"
+    ],
+    "mb": 55,
+    "library": "Mega"
+  },
+  "HeatManSP": {
+    "id": 229,
+    "name": "HeatManSP",
+    "codes": [
+      "H"
+    ],
+    "mb": 70,
+    "library": "Mega"
+  },
+  "ElecMan": {
+    "id": 230,
+    "name": "ElecMan",
+    "codes": [
+      "E",
+      "*"
+    ],
+    "mb": 38,
+    "library": "Mega"
+  },
+  "ElecManEX": {
+    "id": 231,
+    "name": "ElecManEX",
+    "codes": [
+      "E"
+    ],
+    "mb": 52,
+    "library": "Mega"
+  },
+  "ElecManSP": {
+    "id": 232,
+    "name": "ElecManSP",
+    "codes": [
+      "E"
+    ],
+    "mb": 79,
+    "library": "Mega"
+  },
+  "SlashMan": {
+    "id": 233,
+    "name": "SlashMan",
+    "codes": [
+      "S",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Mega"
+  },
+  "SlashMnEX": {
+    "id": 234,
+    "name": "SlashMnEX",
+    "codes": [
+      "S"
+    ],
+    "mb": 65,
+    "library": "Mega"
+  },
+  "SlashMnSP": {
+    "id": 235,
+    "name": "SlashMnSP",
+    "codes": [
+      "S"
+    ],
+    "mb": 79,
+    "library": "Mega"
+  },
+  "EraseMan": {
+    "id": 236,
+    "name": "EraseMan",
+    "codes": [
+      "K",
+      "*"
+    ],
+    "mb": 51,
+    "library": "Mega"
+  },
+  "EraseMnEX": {
+    "id": 237,
+    "name": "EraseMnEX",
+    "codes": [
+      "K"
+    ],
+    "mb": 65,
+    "library": "Mega"
+  },
+  "EraseMnSP": {
+    "id": 238,
+    "name": "EraseMnSP",
+    "codes": [
+      "K"
+    ],
+    "mb": 79,
+    "library": "Mega"
+  },
+  "ChrgeMan": {
+    "id": 239,
+    "name": "ChrgeMan",
+    "codes": [
+      "C",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Mega"
+  },
+  "ChrgeMnEX": {
+    "id": 240,
+    "name": "ChrgeMnEX",
+    "codes": [
+      "C"
+    ],
+    "mb": 63,
+    "library": "Mega"
+  },
+  "ChrgeMnSP": {
+    "id": 241,
+    "name": "ChrgeMnSP",
+    "codes": [
+      "C"
+    ],
+    "mb": 81,
+    "library": "Mega"
+  },
+  "SpoutMan": {
+    "id": 242,
+    "name": "SpoutMan",
+    "codes": [
+      "A",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Mega"
+  },
+  "SpoutMnEX": {
+    "id": 243,
+    "name": "SpoutMnEX",
+    "codes": [
+      "A"
+    ],
+    "mb": 56,
+    "library": "Mega"
+  },
+  "SpoutMnSP": {
+    "id": 244,
+    "name": "SpoutMnSP",
+    "codes": [
+      "A"
+    ],
+    "mb": 78,
+    "library": "Mega"
+  },
+  "TmhkMan": {
+    "id": 245,
+    "name": "TmhkMan",
+    "codes": [
+      "T",
+      "*"
+    ],
+    "mb": 40,
+    "library": "Mega"
+  },
+  "TmhkManEX": {
+    "id": 246,
+    "name": "TmhkManEX",
+    "codes": [
+      "T"
+    ],
+    "mb": 60,
+    "library": "Mega"
+  },
+  "TmhkManSP": {
+    "id": 247,
+    "name": "TmhkManSP",
+    "codes": [
+      "T"
+    ],
+    "mb": 80,
+    "library": "Mega"
+  },
+  "TenguMan": {
+    "id": 248,
+    "name": "TenguMan",
+    "codes": [
+      "T",
+      "*"
+    ],
+    "mb": 43,
+    "library": "Mega"
+  },
+  "TenguMnEX": {
+    "id": 249,
+    "name": "TenguMnEX",
+    "codes": [
+      "T"
+    ],
+    "mb": 61,
+    "library": "Mega"
+  },
+  "TenguMnSP": {
+    "id": 250,
+    "name": "TenguMnSP",
+    "codes": [
+      "T"
+    ],
+    "mb": 74,
+    "library": "Mega"
+  },
+  "GrndMan": {
+    "id": 251,
+    "name": "GrndMan",
+    "codes": [
+      "G",
+      "*"
+    ],
+    "mb": 41,
+    "library": "Mega"
+  },
+  "GrndManEX": {
+    "id": 252,
+    "name": "GrndManEX",
+    "codes": [
+      "G"
+    ],
+    "mb": 66,
+    "library": "Mega"
+  },
+  "GrndManSP": {
+    "id": 253,
+    "name": "GrndManSP",
+    "codes": [
+      "G"
+    ],
+    "mb": 85,
+    "library": "Mega"
+  },
+  "DustMan": {
+    "id": 254,
+    "name": "DustMan",
+    "codes": [
+      "D",
+      "*"
+    ],
+    "mb": 39,
+    "library": "Mega"
+  },
+  "DustManEX": {
+    "id": 255,
+    "name": "DustManEX",
+    "codes": [
+      "D"
+    ],
+    "mb": 56,
+    "library": "Mega"
+  },
+  "DustManSP": {
+    "id": 256,
+    "name": "DustManSP",
+    "codes": [
+      "D"
+    ],
+    "mb": 74,
+    "library": "Mega"
+  },
+  "BlastMan": {
+    "id": 257,
+    "name": "BlastMan",
+    "codes": [
+      "B",
+      "*"
+    ],
+    "mb": 30,
+    "library": "Mega"
+  },
+  "BlastMnEX": {
+    "id": 258,
+    "name": "BlastMnEX",
+    "codes": [
+      "B"
+    ],
+    "mb": 49,
+    "library": "Mega"
+  },
+  "BlastMnSP": {
+    "id": 259,
+    "name": "BlastMnSP",
+    "codes": [
+      "B"
+    ],
+    "mb": 68,
+    "library": "Mega"
+  },
+  "DiveMan": {
+    "id": 260,
+    "name": "DiveMan",
+    "codes": [
+      "D",
+      "*"
+    ],
+    "mb": 45,
+    "library": "Mega"
+  },
+  "DiveManEX": {
+    "id": 261,
+    "name": "DiveManEX",
+    "codes": [
+      "D"
+    ],
+    "mb": 60,
+    "library": "Mega"
+  },
+  "DiveManSP": {
+    "id": 262,
+    "name": "DiveManSP",
+    "codes": [
+      "D"
+    ],
+    "mb": 75,
+    "library": "Mega"
+  },
+  "CrcusMan": {
+    "id": 263,
+    "name": "CrcusMan",
+    "codes": [
+      "C",
+      "*"
+    ],
+    "mb": 42,
+    "library": "Mega"
+  },
+  "CrcusMnEX": {
+    "id": 264,
+    "name": "CrcusMnEX",
+    "codes": [
+      "C"
+    ],
+    "mb": 64,
+    "library": "Mega"
+  },
+  "CrcusMnSP": {
+    "id": 265,
+    "name": "CrcusMnSP",
+    "codes": [
+      "C"
+    ],
+    "mb": 86,
+    "library": "Mega"
+  },
+  "JudgeMan": {
+    "id": 266,
+    "name": "JudgeMan",
+    "codes": [
+      "J",
+      "*"
+    ],
+    "mb": 52,
+    "library": "Mega"
+  },
+  "JudgeMnEX": {
+    "id": 267,
+    "name": "JudgeMnEX",
+    "codes": [
+      "J"
+    ],
+    "mb": 62,
+    "library": "Mega"
+  },
+  "JudgeMnSP": {
+    "id": 268,
+    "name": "JudgeMnSP",
+    "codes": [
+      "J"
+    ],
+    "mb": 72,
+    "library": "Mega"
+  },
+  "ElmntMan": {
+    "id": 269,
+    "name": "ElmntMan",
+    "codes": [
+      "E",
+      "*"
+    ],
+    "mb": 50,
+    "library": "Mega"
+  },
+  "ElmntMnEX": {
+    "id": 270,
+    "name": "ElmntMnEX",
+    "codes": [
+      "E"
+    ],
+    "mb": 53,
+    "library": "Mega"
+  },
+  "ElmntMnSP": {
+    "id": 271,
+    "name": "ElmntMnSP",
+    "codes": [
+      "E"
+    ],
+    "mb": 66,
+    "library": "Mega"
+  },
+  "Colonel": {
+    "id": 272,
+    "name": "Colonel",
+    "codes": [
+      "C",
+      "*"
+    ],
+    "mb": 45,
+    "library": "Mega"
+  },
+  "ColonelEX": {
+    "id": 273,
+    "name": "ColonelEX",
+    "codes": [
+      "C"
+    ],
+    "mb": 70,
+    "library": "Mega"
+  },
+  "ColonelSP": {
+    "id": 274,
+    "name": "ColonelSP",
+    "codes": [
+      "C"
+    ],
+    "mb": 91,
+    "library": "Mega"
+  },
+  "Bass": {
+    "id": 301,
+    "name": "Bass",
+    "codes": [
+      "F"
+    ],
+    "mb": 95,
+    "library": "Giga"
+  },
+  "BigHook": {
+    "id": 302,
+    "name": "BigHook",
+    "codes": [
+      "H"
+    ],
+    "mb": 92,
+    "library": "Giga"
+  },
+  "DeltaRay": {
+    "id": 303,
+    "name": "DeltaRay",
+    "codes": [
+      "Z"
+    ],
+    "mb": 82,
+    "library": "Giga"
+  },
+  "ColForce": {
+    "id": 304,
+    "name": "ColForce",
+    "codes": [
+      "Q"
+    ],
+    "mb": 90,
+    "library": "Giga"
+  },
+  "BugRSwrd": {
+    "id": 305,
+    "name": "BugRSwrd",
+    "codes": [
+      "V"
+    ],
+    "mb": 80,
+    "library": "Giga"
+  },
+  "BassAnly": {
+    "id": 306,
+    "name": "BassAnly",
+    "codes": [
+      "F"
+    ],
+    "mb": 95,
+    "library": "Giga"
+  },
+  "MetrKnuk": {
+    "id": 307,
+    "name": "MetrKnuk",
+    "codes": [
+      "N"
+    ],
+    "mb": 90,
+    "library": "Giga"
+  },
+  "CrossDiv": {
+    "id": 308,
+    "name": "CrossDiv",
+    "codes": [
+      "D"
+    ],
+    "mb": 93,
+    "library": "Giga"
+  },
+  "HubBatc": {
+    "id": 309,
+    "name": "HubBatc",
+    "codes": [
+      "J"
+    ],
+    "mb": 99,
+    "library": "Giga"
+  },
+  "BgDthThd": {
+    "id": 310,
+    "name": "BgDthThd",
+    "codes": [
+      "V"
+    ],
+    "mb": 80,
+    "library": "Giga"
+  }
+}

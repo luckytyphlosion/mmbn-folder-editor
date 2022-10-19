@@ -638,7 +638,6 @@ def convert_folder_to_save(input_folder_filepath):
     folder_error_message = ""
 
     if len(error_messages) != 0:
-        folder_error_message += "Provided folder has errors:\n\n"
         for line_num, error_messages_for_line in error_messages.items():
             if len(error_messages_for_line) != 0:
                 folder_error_message += f"At line {line_num}:"
@@ -661,6 +660,7 @@ def convert_folder_to_save(input_folder_filepath):
         folder_error_message += f"Folder exceeds {navi_name_cased}'s Giga Chip capacity of {navi['gigafolder']}! (Folder has {num_gigas})\n"
 
     if folder_error_message != "":
+        folder_error_message = "Provided folder has errors:\n" + folder_error_message
         error_pause_and_exit(folder_error_message)
 
     for navi_name, navi in navis_cased.items():

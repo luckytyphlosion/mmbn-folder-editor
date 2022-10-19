@@ -130,3 +130,4 @@ dmypy.json
 *.exe
 !How To Use the Program.txt
 !exe45_us_pvp_template.sav
+release_windows_working/

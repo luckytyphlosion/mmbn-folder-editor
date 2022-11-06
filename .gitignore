@@ -131,3 +131,9 @@ dmypy.json
 !How To Use the Program.txt
 !data/exe45_us_pvp_template.sav
 release_windows_working/
+replaywram/*.bin
+*.tangoreplay
+metadata/
+*.7z
+exe45_pvp_all_folder_info.json
+exe45_pvp_all_folder_info_pretty.json

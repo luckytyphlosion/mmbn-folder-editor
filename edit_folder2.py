@@ -522,7 +522,7 @@ def convert_folder_to_save(input_folder_filepath):
     num_megas = 0
     num_gigas = 0
 
-    for line_num, chip in enumerate(folder_input[1:], 2):
+    for line_num, chip in enumerate(folder_input, 2):
         is_chip_guess = False
         chip = chip.strip()
 

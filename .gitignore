@@ -130,6 +130,7 @@ dmypy.json
 *.exe
 !How To Use the Program.txt
 !data/exe45_us_pvp_template.sav
+!data/bn6_template.sav
 release_windows_working/
 replaywram/*.bin
 *.tangoreplay
